@@ -8,7 +8,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/rique_gamer500/)
 
-Sou um estudante de Programação de jogos digitais no ultimo ano do curso técnico. 
+Sou Técnico em Programação de Jogos Digitais
  Eu junto aos meus colegas de classe criamos a Shadow Saint's uma equipe de desenvolvimento de jogos indie
 
 ### Técnologias que uso no dia dia
