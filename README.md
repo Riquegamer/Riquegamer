@@ -9,7 +9,7 @@
 )](https://www.instagram.com/rique_gamer500/)
 
 Sou Técnico em Programação de Jogos Digitais
- Eu junto aos meus colegas de classe criamos a Shadow Saint's uma equipe de desenvolvimento de jogos indie
+ Na minha época de escola eu junto aos meus colegas de classe criamos a Shadow Saint's uma equipe de desenvolvimento de jogos indie para os projetos escolares, que me permitiu optimizar meu trabalho em equipe, organização e minhas habilidades em porgramação e game design. Agora formado estou em busca de meu primeiro emprego profissional na área de TI ou Jogos Digitais
 
 ### Técnologias que uso no dia dia
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
